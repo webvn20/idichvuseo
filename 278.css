@@ -1,0 +1,271 @@
+@charset "UTF-8";.leftContainer{float:right;margin-left: -260px;width:100%}.leftContent{margin-left:260px}.leftSidebar{float:left;width:250px}.splitWidgets .section:first-child, .splitWidgets .sectionMain:first-child{margin-top:0}.sidebar.noFloats{float:none;width:auto !important;margin-bottom:10px}.sidebar.a-leftWidgets{float:left;width:350px}.sidebar.a-rightWidgets{margin-left:360px}.sidebar.b-leftWidgets{float:left;width:350px}.sidebar.b-rightWidgets{margin-left:360px}.sidebar.footerWidgets{clear:both}.splitWidgets{zoom:1}.splitWidgets:after{content:'.';display:block;height:0;clear:both;visibility:hidden}.copyright{text-align:center;font-size:11px;margin:10px}@media (max-width:800px){.Responsive
+.leftContainer{float:none;margin:0
+auto}.Responsive
+.leftContent{margin-left:0}}@media (max-width:610px){.Responsive .sidebar.b-leftWidgets{float:none;margin:0
+auto}.Responsive .sidebar.b-rightWidgets{margin-left:0px}}@media only screen and (max-width: 800px){#Block1st{display:none}#Block2nd{margin-left:0!important}}@media only screen and (max-width: 610px),only screen and (max-device-width: 480px){#Block1st{display:none}#Block2nd{margin-left:0!important}.VietXfAdvStats_Thread
+.VietXfAdvStats_SectionItemInfo{display:none!important}}.VietXfAdvStats
+h3{font-size:11px;color:#6d3f03;background:#f9d9b0 url(https://forum.idichvuseo.com/styles/flexile/flexile/category-bar-gradient.png) repeat-x top;padding:5px
+10px;margin:3px
+auto 0;border:1px
+solid #f9bc6d;box-sizing:border-box;padding:5px
+10px;margin:0;border-bottom-color:#f9bc6d;border-radius:5px;min-height:6px;margin-bottom:5px}.VietXfAdvStats h3
+.VietXfAdvStats_Header{font-size:10pt;text-transform:uppercase;color:#6d3f03;text-shadow:0 1px 0 #f0f7fc}.VietXfAdvStats h3
+.VietXfAdvStats_Controls{float:right;font-size:10pt}.VietXfAdvStats h3 .VietXfAdvStats_Controls
+select{margin-top:-3px}#Block1st{float:left;width:210px}#Block2nd{margin-left:215px}#Block1stPanes,#Block2ndPanes{border-left:1px solid #a6d1ff;border-right:1px solid #a6d1ff;border-bottom:1px solid #a6d1ff;padding-bottom:5px}#Block1st
+.VietXfAdvStats_Block1stContent{padding-left:25px;padding-right:5px;line-height:14px}#Block2nd
+.VietXfAdvStats_Block2ndContent{padding-left:5px;padding-right:5px;line-height:14px}#Block1st
+.VietXfAdvStats_Block1stContent{background:url(https://forum.idichvuseo.com/styles/default/xenforo/list.gif) no-repeat top left}.VietXfAdvStats_Section{position:relative;zoom:1}.VietXfAdvStats_SectionItem{display:table;table-layout:fixed;width:100%;word-wrap:normal;padding-top:3px;padding-bottom:3px}.VietXfAdvStats_SectionItem
+.VietXfAdvStats_SectionItemBlock{display:table-cell;vertical-align:middle}.VietXfAdvStats_SectionItem
+.VietXfAdvStats_SectionItemInfo{font-size:11px;text-align:right}.VietXfAdvStats_SectionItem{*display:block;_vertical-align:bottom}.VietXfAdvStats_SectionItem
+.listBlock{*display:block;*float:left;_height:52px;*min-height:52px}.VietXfAdvStats_Section
+.VietXfAdvStats_SectionItemTitle{*width:69.98%}.VietXfAdvStats_Section
+.VietXfAdvStats_SectionItemInfo{*width:29.98%}.VietXfAdvStats_SectionItem{background-color:#fff;background:url(https://forum.idichvuseo.com/styles/default/xenforo/listbg.gif) repeat}.VietXfAdvStats_User
+.VietXfAdvStats_SectionItemTitle{width:auto}.VietXfAdvStats_User
+.VietXfAdvStats_SectionItemInfo{width:65px}.VietXfAdvStats_Thread .VietXfAdvStats_ThreadTitle.new
+a{font-weight:700}.VietXfAdvStats_Thread
+.VietXfAdvStats_SectionItemTitle{width:auto}.VietXfAdvStats_Thread
+.VietXfAdvStats_SectionItemInfo{width:86px}.bbCodeBlock{margin:1em
+140px 1em 0;border:1px
+solid #d7edfc;border-radius:5px;overflow:auto}.bbCodeBlock .bbCodeBlock, .hasJs .bbCodeBlock .bbCodeSpoilerText, .messageList.withSidebar
+.bbCodeBlock{margin-right:0}.bbCodeBlock pre, .bbCodeBlock
+blockquote{margin:0}.bbCodeBlock
+img{border:none}.bbCodeBlock
+.type{font-size:11px;font-family:;color:#6cb2e4;background:#d7edfc url('https://forum.idichvuseo.com/styles/flexile/xenforo/gradients/form-button-white-25px.png') repeat-x top;padding:3px
+8px;border-bottom:1px solid #a5cae4;border-top-left-radius:4px;border-top-right-radius:4px}.bbCodeBlock pre, .bbCodeBlock
+.code{font-size:10pt;font-family:Consolas,'Courier New',Courier,monospace;background:#f0f7fc url('https://forum.idichvuseo.com/styles/flexile/xenforo/gradients/category-23px-light.png') repeat-x top;padding:10px;border-radius:5px;word-wrap:normal;overflow:auto;line-height:1.24;min-height:30px;max-height:500px;_width:600px;direction:ltr}.bbCodeBlock
+.code{white-space:nowrap}.bbCodeQuote{border-color:#f9d9b0;overflow:auto}.bbCodeQuote
+.attribution{color:rgb(20,20,20);background:#f9d9b0 url('https://forum.idichvuseo.com/styles/flexile/xenforo/gradients/form-button-white-25px.png') repeat-x top;border-bottom:1px solid #f9bc6d}.bbCodeQuote
+.quoteContainer{overflow:hidden;position:relative;font-style:italic;font-size:9pt;background:#fff4e5 url('https://forum.idichvuseo.com/styles/flexile/xenforo/gradients/category-23px-light.png') repeat-x top;padding:10px;border-radius:4px}.bbCodeQuote .quoteContainer
+.quote{max-height:150px;overflow:hidden;padding-bottom:1px}.NoJs .bbCodeQuote .quoteContainer
+.quote{max-height:none}.bbCodeQuote .quoteContainer
+.quoteExpand{display:none;box-sizing:border-box;position:absolute;height:80px;top:90px;left:0;right:0;font-size:11px;line-height:1;text-align:center;color:#f9bc6d;cursor:pointer;padding-top:65px;background: -webkit-linear-gradient(top, rgba(255, 244, 229, 0) 0%, #fff4e5 80%);background: -moz-linear-gradient(top, rgba(255, 244, 229, 0) 0%, #fff4e5 80%);background: -o-linear-gradient(top, rgba(255, 244, 229, 0) 0%, #fff4e5 80%);background:linear-gradient(to bottom, rgba(255, 244, 229, 0) 0%, #fff4e5 80%);border-bottom-left-radius:4px;border-bottom-right-radius:4px}.bbCodeQuote .quoteContainer
+.quoteExpand.quoteCut{display:block}.bbCodeQuote .quoteContainer.expanded
+.quote{max-height:none}.bbCodeQuote .quoteContainer.expanded
+.quoteExpand{display:none}.bbCodeQuote
+img{max-height:150px}.bbCodeQuote iframe, .bbCodeQuote .fb_iframe_widget, .bbCodeQuote object, .bbCodeQuote
+embed{max-width:200px;max-height:150px}.bbCodeQuote iframe:-webkit-full-screen{max-width:none;max-height:none}.bbCodeQuote iframe:-moz-full-screen{max-width:none;max-height:none}.bbCodeQuote iframe:-ms-fullscreen{max-width:none;max-height:none}.bbCodeQuote iframe:fullscreen{max-width:none;max-height:none}.bbCodeSpoilerButton{margin:5px
+0;max-width:99%}.bbCodeSpoilerButton>span{display:inline-block;max-width:100%;white-space:nowrap;text-overflow:ellipsis;overflow:hidden}.hasJs
+.bbCodeSpoilerText{display:none;background-color:#f0f7fc;padding:5px;margin-top:5px;margin-right:140px;margin-bottom:5px;border:1px
+solid #d7edfc;border-radius:5px;overflow:auto}.hasJs .bbCodeSpoilerText .bbCodeSpoilerText, .hasJs .bbCodeSpoilerText .bbCodeBlock, .hasJs .messageList.withSidebar
+.bbCodeSpoilerText{margin-right:0}.NoJs
+.bbCodeSpoilerContainer{background-color:rgb(20,20,20);background-color:currentColor}.NoJs .bbCodeSpoilerContainer>.bbCodeSpoilerText{visibility:hidden}.NoJs .bbCodeSpoilerContainer:hover{background-color:transparent}.NoJs .bbCodeSpoilerContainer:hover>.bbCodeSpoilerText{visibility:visible}@media (max-width:800px){.Responsive .bbCodeBlock, .Responsive.hasJs
+.bbCodeSpoilerText{margin-right:0}}a.fbLogin, #loginBar
+a.fbLogin{display:inline-block;width:180px;height:22px;box-sizing:border-box;cursor:pointer;background:#29447e url('https://forum.idichvuseo.com/styles/flexile/xenforo/connect_sprite.png');background-repeat:no-repeat;border-radius:3px;background-position:left -188px;padding:0px
+0px 0px 1px;outline:none;text-decoration:none;color:white;font-weight:bold;font-size:11px;line-height:14px}a.fbLogin:active, #loginBar a.fbLogin:active{background-position:left -210px}a.fbLogin:hover, #loginBar a.fbLogin:hover{text-decoration:none}a.fbLogin
+span{background:#5f78ab url('https://forum.idichvuseo.com/styles/flexile/xenforo/connect_sprite.png');border-top:solid 1px #879ac0;border-bottom:solid 1px #1a356e;display:block;padding:2px
+4px 3px;margin:1px
+1px 0px 21px;text-shadow:none;white-space:nowrap;overflow:hidden}a.fbLogin:active
+span{border-bottom:solid 1px #29447e;border-top:solid 1px #45619d;background:#4f6aa3;text-shadow:none}.list
+.ldimage{float:left;font-size:0}.grid
+.ldimage{float:none;font-size:0}.ldSidebarItem{overflow:hidden;zoom:1}.list:first-child{border:0}.list{margin:5px
+0;padding-top:5px;border-top:1px solid #d7edfc}.list:first-child{border-top:none;padding-top:0}.ldSidebarItem
+.messageInfo{margin-left:29px}.ldSidebarItem
+.title{overflow:hidden;white-space:nowrap;word-wrap:normal;text-overflow:ellipsis}.ldSidebarItem
+.additionalRow{overflow:hidden;white-space:nowrap;word-wrap:normal;text-overflow:ellipsis}.ldSidebarItem
+.title{font-size:11px;padding:1px
+0}.grid{display:inline-block;list-style-type:none;padding-right:3px;padding-bottom:3px;-webkit-border-radius:4px;-moz-border-radius:4px;-khtml-border-radius:4px;border-radius:4px;width:24px;height:24px}.listImage{width:24px;height:24px;float:left}.ldSidebarItem_
+a{display:block;position:relative;padding-bottom:24px;overflow:hidden;-webkit-border-radius:5px;-moz-border-radius:5px;border-radius:5px}.ldSidebarItem
+img{position:absolute;display:block;height:auto;width:24px;object-fit:contain;object-position:top 50%;border:1px
+solid #a5cae4;-webkit-border-radius:4px;-moz-border-radius:4px;-khtml-border-radius:4px;border-radius:4px}.ldSidebarItem
+.listImage{float:left}.ldSidebarItem
+.messageInfo{margin-left:0}.listImage{display:none}#loginBar{color:#a5cae4;background-color:#1b1b1b;border-bottom:1px solid #3CB2E3;position:relative;z-index:1}#loginBar
+.ctrlWrapper{margin:0
+10px}#loginBar
+.pageContent{padding-top:5px;position:relative;_height:0px}#loginBar
+a{color:#6cb2e4}#loginBar
+form{padding:5px
+0;margin:0
+auto;display:none;line-height:20px;position:relative}#loginBar .xenForm .ctrlUnit, #loginBar .xenForm .ctrlUnit > dt
+label{margin:0;border:none}#loginBar .xenForm .ctrlUnit>dd{position:relative}#loginBar .lostPassword, #loginBar
+.lostPasswordLogin{font-size:11px}#loginBar
+.rememberPassword{font-size:11px}#loginBar
+.textCtrl{color:#f0f7fc;background-color:rgb(26, 62, 99);border-color:#2096e1}#loginBar .textCtrl[type=text]{font-weight:bold;font-size:18px}#loginBar .textCtrl:-webkit-autofill{background:rgb(26, 62, 99) !important;color:#f0f7fc}#loginBar .textCtrl:focus{background:black none}#loginBar
+input.textCtrl.disabled{color:#a5cae4;background-color:#032A46;border-style:dashed}#loginBar
+.button{min-width:85px;*width:85px}#loginBar
+.button.primary{font-weight:bold}#loginBar
+form.eAuth{-x-max-width:700px}#loginBar form.eAuth
+.ctrlWrapper{border-right:1px dotted #1061b3;margin-right:200px;box-sizing:border-box}#loginBar form.eAuth
+#eAuthUnit{position:absolute;top:0px;right:10px}#eAuthUnit
+li{margin-top:10px;line-height:0}#loginBar
+#loginBarHandle{font-size:11px;color:#FFF;background-color:#1b1b1b;padding:0
+10px;margin-right:20px;border-bottom-right-radius:6px;border-bottom-left-radius:6px;position:absolute;right:0px;bottom: -20px;text-align:center;z-index:1;line-height:20px;box-shadow:0px 2px 4px rgba(0,0,0,.2)}@media (max-width:800px){.Responsive #loginBar form.eAuth
+.ctrlWrapper{border-right:none;margin-right:10px}.Responsive #loginBar form.eAuth
+#eAuthUnit{position:static;width:180px;margin:0
+auto 10px}}.node.node_2
+.nodeIcon{background:transparent url(https://forum.idichvuseo.com/data/node-icons/2_1.jpg) no-repeat top left !important}.node.node_4
+.nodeIcon{background:transparent url(https://forum.idichvuseo.com/data/node-icons/4_1.jpg) no-repeat top left !important}.node.node_8
+.nodeIcon{background:transparent url(https://forum.idichvuseo.com/data/node-icons/8_1.jpg) no-repeat top left !important}.node.node_48
+.nodeIcon{background:transparent url(https://forum.idichvuseo.com/data/node-icons/48_1.jpg) no-repeat top left !important}.node.node_56
+.nodeIcon{background:transparent url(https://forum.idichvuseo.com/data/node-icons/56_1.jpg) no-repeat top left !important}.node.node_9
+.nodeIcon{background:transparent url(https://forum.idichvuseo.com/data/node-icons/9_1.jpg) no-repeat top left !important}.node.node_10
+.nodeIcon{background:transparent url(https://forum.idichvuseo.com/data/node-icons/10_1.jpg) no-repeat top left !important}.node.node_11
+.nodeIcon{background:transparent url(https://forum.idichvuseo.com/data/node-icons/11_1.jpg) no-repeat top left !important}.node.node_12
+.nodeIcon{background:transparent url(https://forum.idichvuseo.com/data/node-icons/12_1.jpg) no-repeat top left !important}.node.node_13
+.nodeIcon{background:transparent url(https://forum.idichvuseo.com/data/node-icons/13_1.jpg) no-repeat top left !important}.node.node_15
+.nodeIcon{background:transparent url(https://forum.idichvuseo.com/data/node-icons/15_1.jpg) no-repeat top left !important}.node.node_26
+.nodeIcon{background:transparent url(https://forum.idichvuseo.com/data/node-icons/26_1.jpg) no-repeat top left !important}.node.node_66
+.nodeIcon{background:transparent url(https://forum.idichvuseo.com/data/node-icons/66_1.jpg) no-repeat top left !important}.node.node_65
+.nodeIcon{background:transparent url(https://forum.idichvuseo.com/data/node-icons/65_1.jpg) no-repeat top left !important}.node.node_73
+.nodeIcon{background:transparent url(https://forum.idichvuseo.com/data/node-icons/73_1.jpg) no-repeat top left !important}.node.node_68
+.nodeIcon{background:transparent url(https://forum.idichvuseo.com/data/node-icons/68_1.jpg) no-repeat top left !important}.node.node_69
+.nodeIcon{background:transparent url(https://forum.idichvuseo.com/data/node-icons/69_1.jpg) no-repeat top left !important}.node.node_70
+.nodeIcon{background:transparent url(https://forum.idichvuseo.com/data/node-icons/70_1.jpg) no-repeat top left !important}.node.node_50
+.nodeIcon{background:transparent url(https://forum.idichvuseo.com/data/node-icons/50_1.jpg) no-repeat top left !important}.node.node_60
+.nodeIcon{background:transparent url(https://forum.idichvuseo.com/data/node-icons/60_1.jpg) no-repeat top left !important}.node.node_52
+.nodeIcon{background:transparent url(https://forum.idichvuseo.com/data/node-icons/52_1.jpg) no-repeat top left !important}.node.node_51
+.nodeIcon{background:transparent url(https://forum.idichvuseo.com/data/node-icons/51_1.jpg) no-repeat top left !important}.node.node_53
+.nodeIcon{background:transparent url(https://forum.idichvuseo.com/data/node-icons/53_1.jpg) no-repeat top left !important}.node.node_54
+.nodeIcon{background:transparent url(https://forum.idichvuseo.com/data/node-icons/54_1.jpg) no-repeat top left !important}.node.node_55
+.nodeIcon{background:transparent url(https://forum.idichvuseo.com/data/node-icons/55_1.jpg) no-repeat top left !important}.node.node_57
+.nodeIcon{background:transparent url(https://forum.idichvuseo.com/data/node-icons/thao-luan-google-adwords.jpg) no-repeat top left !important}.node.node_19
+.nodeIcon{background:transparent url(https://forum.idichvuseo.com/data/node-icons/thao-luan-google-adwords.jpg) no-repeat top left !important}.node.node_20
+.nodeIcon{background:transparent url(https://forum.idichvuseo.com/data/node-icons/thao-luan-facebook-ads.png) no-repeat top left !important}.node.node_21
+.nodeIcon{background:transparent url(https://forum.idichvuseo.com/data/node-icons/tai-nguyen-digital-marketing.png) no-repeat top left !important}.node.node_27
+.nodeIcon{background:transparent url(https://forum.idichvuseo.com/data/node-icons/kiem-tien-tren-mang.png) no-repeat top left !important}.node.node_47
+.nodeIcon{background:transparent url(https://forum.idichvuseo.com/data/node-icons/xay-dung-thuong-hieu.png) no-repeat top left !important}.node.node_59
+.nodeIcon{background:transparent url(https://forum.idichvuseo.com/data/node-icons/59_1.jpg) no-repeat top left !important}.node.node_39
+.nodeIcon{background:transparent url(https://forum.idichvuseo.com/data/node-icons/39_1.jpg) no-repeat top left !important}.node.node_43
+.nodeIcon{background:transparent url(https://forum.idichvuseo.com/data/node-icons/43_1.jpg) no-repeat top left !important}.node.node_22
+.nodeIcon{background:transparent url(https://forum.idichvuseo.com/data/node-icons/22_1.jpg) no-repeat top left !important}.node.node_23
+.nodeIcon{background:transparent url(https://forum.idichvuseo.com/data/node-icons/23_1.jpg) no-repeat top left !important}.node.node_25
+.nodeIcon{background:transparent url(https://forum.idichvuseo.com/data/node-icons/25_1.jpg) no-repeat top left !important}.node.node_34
+.nodeIcon{background:transparent url(https://forum.idichvuseo.com/data/node-icons/34_1.jpg) no-repeat top left !important}.node.node_78
+.nodeIcon{background:transparent url(https://forum.idichvuseo.com/data/node-icons/tin-tuc-seo.png) no-repeat top left !important}.node.node_80
+.nodeIcon{background:transparent url(https://forum.idichvuseo.com/data/node-icons/danh-ba.jpg) no-repeat top left !important}.nodeList{zoom:1}.nodeList
+.node{zoom:1;vertical-align:bottom}.nodeList
+.node.level_1{margin-bottom:20px}.nodeList .node.level_1:last-child{margin-bottom:0}.nodeList .node.groupNoChildren+.node.groupNoChildren{margin-top: -20px}.node
+.nodeInfo{overflow:hidden;zoom:1;position:relative}.node .nodeInfo.primaryContent, .node
+.nodeInfo.secondaryContent{padding:0}.node
+.nodeIcon{margin:10px
+0 10px 4px;float:left;width:44px;height:34px}.node .forumNodeInfo .nodeIcon, .node .categoryForumNodeInfo
+.nodeIcon{background:#2096e1 url('https://forum.idichvuseo.com/styles/flexile/flexile/node-sprite.png') no-repeat 0 0}.node .forumNodeInfo.unread .nodeIcon, .node .categoryForumNodeInfo.unread
+.nodeIcon{background:#1061b3 url('https://forum.idichvuseo.com/styles/flexile/flexile/node-sprite.png') no-repeat -44px 0}.node .pageNodeInfo
+.nodeIcon{background-image:url('https://forum.idichvuseo.com/styles/flexile/flexile/node-sprite.png');background-repeat:no-repeat;background-position: -88px 0}.node .linkNodeInfo
+.nodeIcon{background-image:url('https://forum.idichvuseo.com/styles/flexile/flexile/node-sprite.png');background-repeat:no-repeat;background-position: -132px 0}.node
+.nodeText{margin:10px
+270px 10px 56px}.node .nodeText
+.nodeTitle{font-size:12pt}.node .unread .nodeText
+.nodeTitle{font-weight:bold}.node
+.nodeDescription{font-size:11px}.hasJs .node
+.nodeDescriptionTooltip{display:none}.Touch .node
+.nodeDescriptionTooltip{display:block}.node
+.nodeStats{font-size:11px;margin-top:2px}.node
+.nodeExtraNote{text-align:right;font-size:11px;color:rgb(150,150,150)}.node
+.subForumList{overflow:hidden;*zoom:1;margin: -5px 0 10px;margin-left:56px}.node .subForumList
+li{float:left;width:31%;margin:2px
+0 2px 2%}.node .subForumList li
+.nodeTitle{font-size:11px;overflow:hidden;white-space:nowrap;word-wrap:normal;text-overflow:ellipsis}.node .subForumList .unread
+.nodeTitle{font-weight:bold}.node .subForumList li ol, .node .subForumList li
+ul{display:none}.node
+.nodeLastPost{background-color:#f0f7fc;padding:10px;border-bottom:1px solid #d7edfc;font-size:12px;background-image:none;padding:3px
+10px;margin:10px;border:1px
+solid #d7edfc;border-radius:3px;position:absolute;top:0;right:0;line-height:14px;white-space:nowrap;word-wrap:normal;overflow:hidden;width:210px;height:28px}.node .nodeLastPost
+.lastThreadTitle{text-overflow:ellipsis;max-width:100%;display:block;overflow:hidden}.node .nodeLastPost
+.lastThreadMeta{display:block}.node .nodeLastPost
+.noMessages{line-height:28px}.node
+.nodeControls{position:absolute;top:0;right:242px;margin:20px
+0}.node
+.tinyIcon{background:transparent url('https://forum.idichvuseo.com/styles/flexile/xenforo/xenforo-ui-sprite.png') no-repeat -112px -16px;margin:1px
+4px;display:block;white-space:nowrap;text-indent:9999px;overflow:hidden;opacity:0.25;width:14px;height:14px}.node .nodeInfo:hover .tinyIcon[href], .Touch .node
+.tinyIcon{opacity:1}.nodeDescriptionTip{padding:4px
+10px;margin-top: -22px;line-height:1.5;width:350px;height:auto}.nodeDescriptionTip
+.arrow{border:6px
+solid transparent;border-right-color:rgb(0,0,0);border-right-color:rgba(0,0,0, 0.6);_border-right-color:rgb(0,0,0);border-left:1px none black;top:6px;left: -6px;bottom:auto}.nodeDescriptionTip.arrowBottom
+.arrow{top:auto;left:10px;bottom: -6px;border:6px
+solid transparent;border-top-color:rgb(0,0,0);border-top-color:rgba(0,0,0, 0.6);_border-top-color:rgb(0,0,0);border-bottom:1px none black}.nodeList .categoryForumNodeInfo, .nodeList .forumNodeInfo, .nodeList .pageNodeInfo, .nodeList
+.linkNodeInfo{background-color:rgb(252, 252, 255);padding:10px;border-bottom:1px solid #d7edfc;padding:0}.nodeList
+.categoryStrip{font-size:11px;color:#6d3f03;background:#f9d9b0 url('https://forum.idichvuseo.com/styles/flexile/flexile/category-bar-gradient.png') repeat-x top;padding:5px
+10px;margin:3px
+auto 0;border:1px
+solid #f9bc6d;box-sizing:border-box;padding:5px
+10px;margin:0;border-bottom-color:;border-radius:5px;min-height:6px}.nodeList .categoryStrip
+.nodeTitle{font-size:10pt;color:#6d3f03;text-transform:uppercase;text-shadow:0 1px 0 #f0f7fc}.nodeList .categoryStrip .nodeTitle
+a{color:#6d3f03}.nodeList .categoryStrip
+.nodeDescription{font-size:10px;color:#6d3f03}.nodeList .categoryStrip .nodeDescription
+a{color:#6d3f03}.nodeList .node.groupNoChildren + .node.groupNoChildren
+.categoryStrip{display:none}.nodeStats{overflow:hidden;zoom:1}.nodeStats dl,.subForumsPopup{float:left;display:block;margin-right:3px}.subForumsPopup.Popup
+.PopupControl.PopupOpen{background-image:none}.subForumsPopup
+a.PopupControl{padding-left:5px;padding-right:5px}.subForumsPopup
+.dt{color:rgb(150,150,150)}.subForumsPopup .PopupOpen
+.dt{color:rgb(20,20,20)}.subForumsMenu .node
+.node{padding-left:10px}.subForumsMenu .node
+.nodeTitle{font-size:11px}.subForumsMenu .node .unread
+.nodeTitle{font-weight:bold}.nodeListNewDiscussionButton{margin-top:10px;text-align:right}@media (max-width:610px){.Responsive .node
+.nodeText{margin-right:0}.Responsive.Touch .node .nodeDescriptionTooltip, .Responsive .node
+.nodeDescription{display:none}.Responsive .node
+.nodeLastPost{position:static;height:auto;width:auto;background:none;border:none;padding:0;margin: -8px 0 10px 56px}.Responsive .node .nodeLastPost
+.noMessages{display:none}.Responsive .node .nodeLastPost .lastThreadTitle, .Responsive .node .nodeLastPost
+.lastThreadUser{display:none}.Responsive .node .nodeLastPost .lastThreadDate:before{content:attr(data-latest)}.Responsive .node
+.nodeControls{display:none}.Responsive .node
+.subForumList{display:none}.Responsive
+.nodeDescriptionTip{width:auto;max-width:350px}}@media (max-width:480px){.Responsive
+.subForumsPopup{display:none}}.profilePostListItem{overflow:hidden;zoom:1;margin:5px
+0;padding-top:5px;border-top:1px solid #d7edfc}:not(.nonInitial)>.profilePostListItem:first-child{border-top:none;padding-top:0}.profilePostListItem
+.avatar{float:left;font-size:0}.profilePostListItem .avatar
+img{width:24px;height:24px}.profilePostListItem
+.messageInfo{margin-left:34px}.profilePostListItem .messageContent article, .profilePostListItem .messageContent
+blockquote{display:inline}.profilePostListItem
+.poster{font-weight:bold}.profilePostListItem
+.messageMeta{overflow:hidden;zoom:1;font-size:11px;line-height:14px;padding-top:4px}.profilePostListItem
+.privateControls{float:left}.profilePostListItem .privateControls
+.item{float:left;margin-right:10px}.profilePostListItem
+.publicControls{float:right}.profilePostListItem .publicControls
+.item{float:left;margin-left:10px}.sidebar .statusPoster
+textarea{width:100%;margin:0;box-sizing:border-box;resize:vertical;overflow:hidden}.sidebar .statusPoster
+.submitUnit{margin-top:5px;text-align:right}.sidebar .sharePage
+.shareControl{margin-top:10px;min-height:23px}.sidebar .sharePage
+iframe{width:200px;height:20px}.sidebar .sharePage
+iframe.fb_ltr{_width:200px !important}.sidebar .sharePage .facebookLike
+iframe{z-index:52}.mast .sharePage
+.secondaryContent{overflow:visible !important}@media (max-width:480px){.Responsive .sidebar
+.sharePage{display:none}}.threadListItem{overflow:hidden;zoom:1;margin:5px
+0;padding-top:5px;border-top:1px solid #d7edfc}.threadListItem:first-child{border-top:none;padding-top:0}.threadListItem
+.avatar{float:left;font-size:0}.threadListItem .avatar
+img{width:24px;height:24px}.threadListItem
+.messageInfo{margin-left:34px}.threadListItem
+.title{padding:1px
+0}.threadListItem .title, .threadListItem
+.additionalRow{overflow:hidden;white-space:nowrap;word-wrap:normal;text-overflow:ellipsis}.widget-container.sidebar.act-as-sidebar{padding:0;margin:0;float:none;font-size:inherit;width:auto}.sidebar-widget{}.hook-widget{}.widget-rows>div{margin-top:5px}.widget-tabs{border:0
+none black}.widget-tabs
+.tabs{white-space:nowrap}.widget-tabs .tabs>li{display:inline;float:none}.widget-tabs .widget-panes{padding:10px;border-right:1px solid #a5cae4;border-bottom:1px solid #a5cae4;border-left:1px solid #a5cae4;border-bottom-right-radius:10px;border-bottom-left-radius:10px}.widget-columns{}.columns-table{display:table;table-layout:fixed;width:100% !important}.columns-row{display:table-row}.widget-column{display:table-cell}.widget-columns>.columns-container>.widget-column>div{margin-left:5px}.widget-columns>.columns-container>.widget-column.column-1>div{margin-left:0}.widget-columns>.columns-container>.widget-column{border-left:1px solid #a5cae4;margin-left: -1px !important}.widget-columns>.columns-container>.widget-column.column-1{border-left:0;margin-left:0 !important}.widget-rows>div{border-top:1px solid #a5cae4;margin-top:5px;padding-top:5px}.widget-rows>div.row-1{border-top:0;margin-top:0;padding-top:0}.hook-widget>h3{color:#1061b3;font-size:1.1em;font-weight:bold}.widget
+.avatarHeap{margin-right: -10px}.WidgetFramework_WidgetRenderer_ProfilePosts_ProfilePostItem{overflow:hidden;zoom:1;margin:5px
+0;padding-top:5px;border-top:1px solid #d7edfc}.WidgetFramework_WidgetRenderer_ProfilePosts_ProfilePostItem:first-child{border-top:none;padding-top:0}.WidgetFramework_WidgetRenderer_ProfilePosts_ProfilePostItem
+.avatar{float:left;font-size:0}.WidgetFramework_WidgetRenderer_ProfilePosts_ProfilePostItem .avatar
+img{width:24px;height:24px}.WidgetFramework_WidgetRenderer_ProfilePosts_ProfilePostItem
+.messageInfo{margin-left:34px}.WidgetFramework_WidgetRenderer_ProfilePosts_ProfilePostItem .messageContent article, .WidgetFramework_WidgetRenderer_ProfilePosts_ProfilePostItem .messageContent
+blockquote{display:inline}.WidgetFramework_WidgetRenderer_ProfilePosts_ProfilePostItem
+.poster{font-weight:bold}.WidgetFramework_WidgetRenderer_ProfilePosts_ProfilePostItem
+.messageMeta{overflow:hidden;zoom:1;font-size:11px;line-height:14px;padding-top:4px}.widget .statusPoster
+textarea{box-sizing:border-box;width:100%;margin:0;resize:vertical;overflow:hidden}.WidgetFramework_WidgetRenderer_Threads_Sidebar .unread>a{font-weight:bold}.WidgetFramework_WidgetRenderer_Threads_Sidebar.avatarList
+.username{display:inline;font-size:inherit;margin:0}.WidgetFramework_WidgetRenderer_Threads_List.discussionList{overflow:hidden;width:100%}.WidgetFramework_WidgetRenderer_Threads_List
+.DiscussionList{min-width:450px;width:100%}.WidgetFramework_WidgetRenderer_Threads_ListCompact{}.WidgetFramework_WidgetRenderer_Threads_ListCompact>ol{display:table;width:100%}.WidgetFramework_WidgetRenderer_Threads_ListCompact>ol>li{display:table-row}.WidgetFramework_WidgetRenderer_Threads_ListCompact>ol>li>div{display:table-cell;vertical-align:middle}.WidgetFramework_WidgetRenderer_Threads_ListCompact
+div.avatar{width:20px}.WidgetFramework_WidgetRenderer_Threads_ListCompact .avatar
+img{border:0;height:16px;width:16px}.WidgetFramework_WidgetRenderer_Threads_ListCompact
+div.count{text-align:right;width:50px}.WidgetFramework_WidgetRenderer_Threads_ListCompactMore{display:none;font-size: .9em;margin-bottom: -.5em;text-align:center}.Responsive .WidgetFramework_WidgetRenderer_Threads_ListCompact .responsive--aware{display:none}@media screen and (min-width: 480px){.Responsive .WidgetFramework_WidgetRenderer_Threads_ListCompact .responsive--from-narrow{display:table-cell}}@media screen and (min-width: 610px){.Responsive .WidgetFramework_WidgetRenderer_Threads_ListCompact .responsive--from-medium{display:table-cell}}@media screen and (min-width: 800px){.Responsive .WidgetFramework_WidgetRenderer_Threads_ListCompact .responsive--from-wide{display:table-cell}}.WidgetFramework_WidgetRenderer_Threads_FullThreadList{}.WidgetFramework_WidgetRenderer_Threads_FullThreadList
+.subHeading{font-size:1.3em}.WidgetFramework_WidgetRenderer_Threads_FullThreadList
+.info{padding:5px
+10px}.WidgetFramework_WidgetRenderer_Threads_FullThreadList .info.info-top{border-bottom:1px dashed #d7edfc}.WidgetFramework_WidgetRenderer_Threads_FullThreadList .info.info-bottom{border-top:1px dashed #d7edfc}.WidgetFramework_WidgetRenderer_Threads_FullThreadList
+.counters{float:right}.WidgetFramework_WidgetRenderer_Threads_FullThreadList
+.message{margin-bottom:10px}.WidgetFramework_WidgetRenderer_Threads_FullThreadList
+.message{zoom:1}.WidgetFramework_WidgetRenderer_Threads_FullThreadList .message:after{content:'.';display:block;height:0;clear:both;visibility:hidden}.WidgetFramework_WidgetRenderer_Threads_FullThreadList
+.messageInfo{margin:0;padding:5px
+10px}.WidgetFramework_WidgetRenderer_Threads_FullThreadList .message
+.newIndicator{font-size:11px;color:#1061b3;background:#6cb2e4 url('https://forum.idichvuseo.com/styles/flexile/xenforo/gradients/form-button-white-25px.png') repeat-x top;padding:1px
+5px;margin: -5px -5px 5px 5px;border:1px
+solid #6cb2e4;border-radius:3px;border-top-right-radius:0px;display:block;float:right;position:relative;box-shadow:1px 1px 3px rgba(0,0,0, 0.25);margin-right: -25px}.WidgetFramework_WidgetRenderer_Threads_FullThreadList .message .newIndicator
+span{background-color:#6cb2e4;border-top-right-radius:3px;position:absolute;top: -4px;right: -1px;width:5px;height:4px}.WidgetFramework_WidgetRenderer_Threads_FullThreadList .messageText
+.readMoreLink{display:block;text-align:right}.widget-poll .pollBlock
+.pollContent{padding-left:0;width:auto}.widget-poll .pollBlock .pollOptions, .widget-poll .pollBlock
+.pollResults{border:0}.widget-poll .pollBlock .pollResult
+h3.optionText{border:0;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}.widget-poll .pollBlock .pollResult
+.count{padding:0}.WidgetFramework_WidgetRenderer_ShareThisPage .sharePage
+.shareControl{float:none}.WidgetFramework_WidgetRenderer_FeedReader_Entries{}.WidgetFramework_WidgetRenderer_FeedReader_Entries
+.limitedHeight{max-height:59px}.WidgetFramework_WidgetRenderer_FeedReader_Entries
+.WidgetFramework_WidgetRenderer_FeedReader_Entry{text-align:justify;display:block;overflow:hidden;margin-bottom:3px}.WidgetFramework_WidgetRenderer_FeedReader_Entries
+img.WidgetFramework_WidgetRenderer_FeedReader_Thumbnail{width:auto;float:right;margin-left:3px}.WidgetFramework_WidgetRenderer_FeedReader_Entries .WidgetFramework_WidgetRenderer_FeedReader_Entry:nth-child(2n) img.WidgetFramework_WidgetRenderer_FeedReader_Thumbnail{float:left;margin-right:3px}.widget-tabs .WidgetFramework_WidgetRenderer_XFMG_Media
+.sectionMain{background:none;border:0;margin:0;padding:0}.widget-tabs .WidgetFramework_WidgetRenderer_XFMG_Media .sectionMain
+.titleStrip{display:none}.WidgetFramework_WidgetRenderer_XFRM_Resources
+.Hint{float:right}.WidgetFramework_WidgetRenderer_UserFollow
+h3{zoom:1}.WidgetFramework_WidgetRenderer_UserFollow h3:after{content:'.';display:block;height:0;clear:both;visibility:hidden}.widget.WidgetFramework_WidgetRenderer_UserFollow h3>a.count{background-color:#f0f7fc;border:1px
+solid #a5cae4;border-radius:5px;color:#032A46;float:right;font-size:0.8em;margin: -3px 0;padding:2px
+6px}/* CSS saved with [bd] Cache (https://forum.idichvuseo.com/css.php?css=EWRporta2_Global,VietXfAdvStats,bb_code,facebook,ld_xfSidebar,login_bar,node_category,node_forum,node_list,profile_post_list_simple,sidebar_share_page,thread_list_simple,wf_default&style=11&dir=LTR&d=1492145418) */
